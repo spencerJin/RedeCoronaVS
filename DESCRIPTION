@@ -1,0 +1,15 @@
+Package: RedeCoronaVS
+Type: Package
+Title: RedeCoronaVS: A tool for detection of SARS-CoV-2 viral shedding
+Version: 0.1.1
+Author: Xiangxing Jin
+Maintainer: The package maintainer <jinxiangxing@ipbcams.ac.cn>
+Description: RedeCoronaVS is an optimization model developed using a linear programming algorithm which includes an objective function, constraints, and decision variables. RedeCoronaVS, considers the abundance of viral replicons and viral particles as variables in its optimization process.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Depends: R(>= 3.5.0)
+Imports: Rglpk
+RoxygenNote: 7.2.3
+NeedsCompilation: no
+Packaged: 2024-02-02 07:17:49 UTC; 94758
